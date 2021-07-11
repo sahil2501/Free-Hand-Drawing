@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-image: url("https://ak.picdn.net/shutterstock/videos/10364006/thumb/11.jpg");
+}
+
+h1 {
+    color: white;
+    font-size: 90px;
+    font-family: arial;
+}
+
+#myCanvas {
+    border-width: 10px;
+    border-style: ridge;
+    background-color: white;
+}
+
+input {
+    border-radius: 75px;
+    color: black;
+    font-weight: bold;
+    background-color: white;
+    font-size: 20px;
+}
+
+p {
+    font-weight: bolder;
+    color: navy;
+    background-color: cyan;
+    font-family: arial;
+    font-size: 25px;
+    border-radius: 65px;
+    padding-left: 37px;
+    padding-right: 37px;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 40%;
+    text-align: center;
+}
